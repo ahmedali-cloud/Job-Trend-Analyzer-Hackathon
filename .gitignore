@@ -1,0 +1,11 @@
+# Ignore system and unnecessary folders
+AppData/
+*.exe
+*.dll
+*.log
+*.pyc
+__pycache__/
+.env
+.DS_Store
+.vscode/
+.idea/
